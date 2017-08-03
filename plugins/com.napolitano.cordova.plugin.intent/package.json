@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-intent",
+        "scope": null,
+        "escapedName": "cordova-plugin-intent",
+        "name": "cordova-plugin-intent",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\cordova\\testIntent\\node_modules"
+    ]
+  ],
+  "_from": "cordova-plugin-intent@latest",
+  "_id": "cordova-plugin-intent@0.1.2",
+  "_inCache": true,
+  "_location": "/cordova-plugin-intent",
+  "_nodeVersion": "4.2.3",
+  "_npmUser": {
+    "name": "axel_napolitano",
+    "email": "opensource@napolitano.de"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-intent",
+    "scope": null,
+    "escapedName": "cordova-plugin-intent",
+    "name": "cordova-plugin-intent",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-intent/-/cordova-plugin-intent-0.1.2.tgz",
+  "_shasum": "80bff1bf7daad248ba3e89a6b0c9e157a01a885f",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-intent",
+  "_where": "D:\\cordova\\testIntent\\node_modules",
+  "author": {
+    "name": "Axel Naolitano, Napolitano Business Solutions"
+  },
+  "bugs": {
+    "url": "https://github.com/napolitano/cordova-plugin-intent/issues"
+  },
+  "cordova": {
+    "id": "com.napolitano.cordova.plugin.intent",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Plugin for Android to access intent",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "80bff1bf7daad248ba3e89a6b0c9e157a01a885f",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-intent/-/cordova-plugin-intent-0.1.2.tgz"
+  },
+  "gitHead": "adb6414ca49b6f5698ecee29e2865883368e8dcc",
+  "homepage": "https://github.com/napolitano/cordova-plugin-intent#readme",
+  "keywords": [
+    "cordova",
+    "intent",
+    "share",
+    "send",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "axel_napolitano",
+      "email": "opensource@napolitano.de"
+    }
+  ],
+  "name": "cordova-plugin-intent",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/napolitano/cordova-plugin-intent.git"
+  },
+  "scripts": {},
+  "version": "0.1.2"
+}
